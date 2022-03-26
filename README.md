@@ -1,10 +1,10 @@
 # Live-Formation-Java-Premiere-Application
 
 📫 Feel free to reach me *learning@jiraws.com*  
-▶️ **YouTube** - https://www.youtube.com/c/JirAWS  
-🌐 **Website** - https://www.jiraws.com  
-🎙️ **Discord** - https://discord.gg/HDQG7KfSsn  
-📔 **Java & AWS Courses** - https://www.jiraws.com/formations  
+▶️ YouTube - *https://www.youtube.com/c/JirAWS*  
+▶️ Website - *https://www.jiraws.com*  
+▶️ Discord - *https://discord.gg/HDQG7KfSsn*  
+▶️ Java & AWS Courses - *https://www.jiraws.com/formations*  
 
 Code I've written during the first Live Session on YouTube - *https://www.youtube.com/watch?v=DTYjbHC0rj8*
 
